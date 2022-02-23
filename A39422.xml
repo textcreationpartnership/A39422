@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Strafford characterized, in a letter sent to a friend in the countrey, 1641</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39422</idno>
+            <idno type="STC">Wing E82</idno>
+            <idno type="STC">ESTC R24941</idno>
+            <idno type="EEBO-CITATION">08700678</idno>
+            <idno type="OCLC">ocm 08700678</idno>
+            <idno type="VID">41572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Strafford characterized, in a letter sent to a friend in the countrey, 1641</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41572:1"/>
+            <pb facs="tcp:41572:1" rendition="simple:additions"/>
+            <p>THE EARLE OF STRAFFORD Characterized In a LETTER ſent to a friend in the Countrey. 1641.</p>
+            <p>Anno Dom. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:41572:2"/>
+            <head>The Earle of STRAFFORD <hi>CHARACTRIZED</hi> In a Letter ſent to a friend in the Country, 1641.</head>
+            <opener>
+               <salute>Noble Sir;</salute>
+            </opener>
+            <p>I Am inforced to complain of your impetu<g ref="char:EOLhyphen"/>ous commands, and the taxe you impoſe on me (above all the reſt of your vaſſals) but eſpecially of this of my Lord of <hi>Straffords;</hi> as though I alone were inſpired with an illumi<g ref="char:EOLhyphen"/>nation beyond the wiſdome of the Parliament, which on ſo long conſultation hath not yet de<g ref="char:EOLhyphen"/>termined the articulate point of your queſtion, yet thus much I ſhall poſſitively deliver as a part of my belief: That howſoever my Lord of <hi>Strafford</hi> be cryed up for a moſt incompara<g ref="char:EOLhyphen"/>ble and accompliſhed inſtrument of State, yet he is humane, and ſubject to ſuch infirmities as were incident to our firſt Progenitors, and this is a particular of my faith, not of my opinion.</p>
+            <p>But if it may ſatisfie your curioſity to be in<g ref="char:EOLhyphen"/>formed of the generall conceptions, I ſhall
+<pb n="4" facs="tcp:41572:2" rendition="simple:additions"/> then preſent you with as various a collection of votes and cenſures, as there are fancies in the ſeverall fuctions daily raiſed by the work of Art and Time which qualifieth poyſon, mo<g ref="char:EOLhyphen"/>lifieth flints, and changeth the fuce of all things from their firſt beings and appearances which have much befriended my Lord of <hi>Strafford.</hi>
+            </p>
+            <p>But whether his Lordſhip be guilty of high treaſon, I cannot determine.</p>
+            <p>Sure it is many foule things ſtick upon him by manifeſt proofs, which neither his fineneſſe of wit, nor all the fig-leaves in Paradiſe can cover.</p>
+            <p>True it is the Houſe of Commons ſtand ſtiffe to make good their firſt charges, which are now inforced and proſecuted to the laſt Ar<g ref="char:EOLhyphen"/>ticle this very day, which ſhould it not prove Treaſon on joynt rehearſall of the Houſe, and ſo adjudged by the Lords, it would then ſeem to me to be a ſtrain of popular furie, rather than the legitimate iſſue of a Court of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>True it is, that before the quarter-part of the accuſations were charged on him, he was by way of prejudication acquitted by many of both Sexes, and favoured not of a few of both Houſes, and ſome of his Majeſties Councell, and the Papiſticall party his friends and fol<g ref="char:EOLhyphen"/>lowers, and generally by Ladies.</p>
+            <p>The firſt reaſons are beſt known unto them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <pb n="5" facs="tcp:41572:3"/>
+            <p> By the ſecond, for reſpects due to their Pa<g ref="char:EOLhyphen"/>tron.</p>
+            <p>By the third, for intereſts and obligations of dependancie.</p>
+            <p>By the fourth, (if well conſidered) for many feminine and affected conſiderations. As the naturall pitie and conſideration of women ſim<g ref="char:EOLhyphen"/>pathizing with his afflictions, with ſadneſſe of his aſpect, their facilitie with his complacen<g ref="char:EOLhyphen"/>ces, their lenity with his patheticall oratorie.</p>
+            <p>On the other ſide, there is a rigid ſtrong and inflexible partie, that ſay if he be not found a Traytor, the Parliament muſt make him ſo for the Intereſt of the Publique.</p>
+            <p>And ſo I ſhall preſent you with the inclina<g ref="char:EOLhyphen"/>tions of ano<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her party, and of no deſpicable number of Accompt, which pretend to have a more ſoliditie of judgement then to be carried away with private intereſt, partiall reſpects which ſeem to be touched with the Kings and the Commons ſafety, and to be ſenſible of the Commons ſufferance.</p>
+            <p>And theſe commonly rip up his life and con<g ref="char:EOLhyphen"/>verſation together, with the progreſſe of his e<g ref="char:EOLhyphen"/>ſtate and fortunes, and all concluding for hs diſcent and Family to be of the nobleſt and higheſt ranke of Gentry under the degree of Barronage, his Patromy ſo plentifull, as that it equalizes, moſt of the Barons of the Land, his education noble, and to theſe of his own acquiſition of ſtrong and able naturall parts.</p>
+            <pb n="6" facs="tcp:41572:3"/>
+            <p> And (if the addage be true that <hi>multa ex vultu dinoſcuntur,)</hi> and though they marke him for a wiſe and promiſing face, yet they unhappily obſerve in him a dark and promiſcuous coun<g ref="char:EOLhyphen"/>tenance, clouded, unlovely, and preſaging an envious and cruell diſpoſition. And this gene<g ref="char:EOLhyphen"/>rall <hi>Quaere</hi> is made of him.</p>
+            <p>What was that which he would have had who (ſuſpition excepted) might have beene a King at home, hand not reſtleſſe ambition (ha<g ref="char:EOLhyphen"/>bituated in his nature) interrupted the courſe of his repoſe, and diſordered the many helpes he had to have lived in plenty, and dyed in fe<g ref="char:EOLhyphen"/>licitie.</p>
+            <p>But diſquited (as all ambition is turbulent) in his cogitations and in his firſt expoſition (a<g ref="char:EOLhyphen"/>gitated by the blaſts of his own aſpirings) it is ſayd of him that in his own Countrey he was tranſported by the violence of his will to car<g ref="char:EOLhyphen"/>rie all before him (and come what would of it) to overthrow all that withſtood him.</p>
+            <p>Of ſuch predominant a pitch he was in his own Conſtellation and propenſion which could not reſt there, but muſt break out into a wider extent, for his thoughts ſoared ſo high; (as men who knew him well affirm'd) that he held himſelf injuried by the State, that he came no ſooner to the Helm.</p>
+            <p>Whither to come, he journyed thorow a Wilderneſſe of popular acclamations, and af<g ref="char:EOLhyphen"/>fected the dangerous name of Fame of being
+<pb n="6" facs="tcp:41572:4"/> Soveraign Protector of the Common-wealth.</p>
+            <p>For which he ſo much pretended that in all Parliaments he became an other <hi>Iacques the Orti<g ref="char:EOLhyphen"/>nell.</hi> And they averre it for truth, that in thoſe times his intimate friends and aſſocintes thought it wiſedome to ſhun his converſation, ſo forward he was in taxing the motions of the King and State.</p>
+            <p>And (as it is ſaid) not without a malignant humour, and a repugnant ſpirit, alwayes with<g ref="char:EOLhyphen"/>ſtood the Kings profite, and ſtinted the Parlia<g ref="char:EOLhyphen"/>mentary Contributions at his own will and pleaſure, croſſing the deſignes of State, and in<g ref="char:EOLhyphen"/>fuſing, by his ſtubborn example, a ſpirit of Contradiction in the Aſſemblies of theſe times, which how fatall they have been to ours, I leave to your judgement, and which hath ever ſince bred an averſion in his Majeſty towards his people and his Parliaments.</p>
+            <p>An office wherein they ſay he did farre more miſchief than in this for which he ſtands now arraigned for his life.</p>
+            <p>And this is the Deſcription or Abſtract of the firſt part of his life, as he was the Minion of the people, which (they ſay) he eſteems as the folly of his youth.</p>
+            <p>May you now be pleaſed to receive ſome<g ref="char:EOLhyphen"/>thing of his ſecond Act, as he was a Miniſter of the Kings, into whoſe ſervice, as they ſay, and I think not untruely, to have purchaſed and and bought from the affections of the people
+<pb n="7" facs="tcp:41572:4" rendition="simple:additions"/> at a higher price than all the <hi>Pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vadoes</hi> of <hi>Ed:</hi> the ſecond, and <hi>Richard</hi> the ſecond: For that this onely man hath coſt and loſt the King and the Kingdome more treaſure and loyalty than <hi>Peirce, Gaveſton,</hi> and the two <hi>Spencers,</hi> and the Marqueſſe of <hi>Dublin,</hi> did ever coſt, their being all put together.</p>
+            <p>And ſure I am, it is the common opinion of the Kingdoms that ſhould be taken out of the hands of Juſtice, and the revenge of the pub<g ref="char:EOLhyphen"/>like made fruſtrate, and the expectations of the three Kingdoms diſappointed (who hath inva<g ref="char:EOLhyphen"/>ded the whole by the power of his Counſels, and the parties by the grievous oppreſſions of his Majeſties good people, whereſoever he had to do, they ſay that his Majeſties Dominions<g ref="char:punc">▪</g> ſtand in greater danger and hazard, than even; and (as it may fall out) to be of a more lament<g ref="char:EOLhyphen"/>able Conſequence than is fit to be expreſſed.</p>
+            <p>How fatall may one mans ambition be, and his exorbitant humour work towards the di<g ref="char:EOLhyphen"/>ſtraction of a State, which they do thus demon<g ref="char:EOLhyphen"/>ſtrate by way of ſuſpition.</p>
+            <p>Firſt admitting the Kings affections may be diſpoſed together with the great party which he hath in the upper Houſe to acquit him and others.</p>
+            <p>And that thereby the Houſe of Commons ſhould hold themſelves bound by the intereſt committed unto them by their Countries to make proteſtations againſt the Lords.</p>
+            <pb n="8" facs="tcp:41572:5" rendition="simple:additions"/>
+            <p> What then may be of a divided body: Se<g ref="char:EOLhyphen"/>condly it is queſtioned whether any future Subſidies will be granted, Cuſtomes and Impo<g ref="char:EOLhyphen"/>ſitions be paid the King without any Inſurre<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Thirdly, whether the <hi>Scots</hi> will depart the Kingdom; and if they ſhould, whether on good cauſe they may not return, when they ſhall ſee a diviſion to tend to a fatall confuſion, both in the heart of the State, and in the body of the Kingdom, rather than they will give op<g ref="char:EOLhyphen"/>portunity to the Papiſts and Libertines to come in for a ſhare.</p>
+            <p>Wherefore it is generally concluded by the beſt and moſt impartiall judgements, That there is no proportion between the riddance of a few menſtruous and exorbitant members and the generall ſafety of the King and his Kingdoms.</p>
+            <p>That there is a neceſſitated policy of my Lord of <hi>Strafford,</hi> the Biſhop, and ſome others, ſhould be given up as juſt ſacrifice, to appeaſe the people, and to make a compenſation for the injury done to them and the publike.</p>
+            <p>And thus have you the ſecond Act of the great Vice Royes progreſſe, with the opinion of all and the beſt judgements here about the Town, which I finde to be ſuitable to yours in the Country.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
